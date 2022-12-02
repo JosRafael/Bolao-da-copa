@@ -1,0 +1,80 @@
+.btn-primary,
+.btn-outline-success {
+    background-color: #a2113c;
+    color: white;
+}
+
+#jogos {
+    background-color: #a2113c;
+}
+
+#jogos img {
+    border-radius: 45px;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+}
+
+#minhas-apostas img {
+    border-radius: 45px;
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+}
+
+#minhas-apostas .palpite {
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#jogos .card {
+    width: 100%;
+    height: auto;
+}
+
+#jogos .time {
+    width: auto;
+}
+
+#jogos input {
+    width: 60px;
+    font-size: x-large;
+    height: 40px;
+    padding: 10px;
+}
+
+#jogos .btn-apostar {
+    font-size: small;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    font-size: 1.75rem;
+}
+
+.titulo {
+    color: white;
+}
+
+#rodape {
+    height: 100px;
+}
+.button {
+    background-color: #74a776; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button3:hover {
+    background-color: #f44336;
+    color: white;
+  }

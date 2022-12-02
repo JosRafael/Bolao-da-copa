@@ -1,0 +1,50 @@
+#carouselExampleControls img {
+    height: 620px;
+    object-fit: cover;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    font-size: 1.75rem;
+}
+
+.btn-primary,
+.btn-outline-success {
+    background-color: #a2113c;
+    color: white;
+}
+
+#jogos {
+    background-image: url("../img/bg-1.jpg");
+}
+
+#jogos img {
+    border-radius: 45px;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+}
+
+#jogos .card {
+    width: 350px;
+    height: 160px;
+}
+
+#jogos .time {
+    width: auto;
+}
+
+.btn-apostar {
+    width: 250px;
+    height: 46px;
+    border-radius: 25px;
+    font-weight: 700;
+    border: unset;
+    line-height: 30px;
+    background-color: white;
+}
+
+#rodape {
+    height: 100px;
+}
+
